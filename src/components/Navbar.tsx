@@ -21,7 +21,7 @@ function Logo() {
         alt="The Publicity Centre"
         width={160}
         height={113}
-        className="h-9 w-auto"
+        className="h-12 w-auto"
       />
     </span>
   );
