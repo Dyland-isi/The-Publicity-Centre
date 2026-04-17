@@ -3,25 +3,193 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #0a1a00;
+  --foreground: #ffffff;
+  --card: #1a2e0a;
+  --accent: #93C63B;
+  --accent-orange: #FE6C05;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-geist), system-ui, sans-serif;
+  font-weight: 300;
+  line-height: 1.7;
+  font-size: 16px;
+  overflow-x: hidden;
 }
+
+/* Light pages override (catalogue, shop, virtual-catalogue) */
+body[data-theme='light'] {
+  background: #ffffff;
+  color: #0a1a00;
+}
+
+/* -------- Typography utilities -------- */
+
+.label-mono {
+  font-family: var(--font-geist-mono), monospace;
+  text-transform: uppercase;
+  font-size: 11px;
+  letter-spacing: 0.15em;
+  font-weight: 400;
+}
+
+.display {
+  font-weight: 800;
+  letter-spacing: -0.04em;
+  line-height: 0.9;
+}
+
+.h-section {
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  line-height: 0.95;
+  font-size: clamp(2.75rem, 6vw, 4.5rem);
+}
+
+/* -------- Scrollbars -------- */
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #93C63B;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #7db232;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #93C63B transparent;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* -------- Selection -------- */
+
+::selection {
+  background: #93C63B;
+  color: #0a1a00;
+}
+
+/* -------- Marquee -------- */
+
+@keyframes marqueeX {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+.marquee-track {
+  animation: marqueeX 40s linear infinite;
+  will-change: transform;
+}
+
+/* -------- Breathe for sphere placeholder -------- */
+
+@keyframes breathe {
+  0%, 100% { transform: scale(1); opacity: 0.9; }
+  50% { transform: scale(1.04); opacity: 1; }
+}
+
+/* -------- Reveal on scroll -------- */
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* -------- Hero character stagger -------- */
+
+.hero-char {
+  display: inline-block;
+  will-change: transform, opacity;
+}
+
+/* -------- Snap container -------- */
+
+.snap-y-container {
+  scroll-snap-type: y mandatory;
+  overflow-y: scroll;
+  height: 100vh;
+}
+
+.snap-start {
+  scroll-snap-align: start;
+}
+
+/* -------- Radial fade overlay for sphere on mobile -------- */
+
+.bg-radial-fade {
+  background: radial-gradient(
+    ellipse 80% 60% at 50% 0%,
+    transparent 30%,
+    rgba(10, 26, 0, 0.65) 65%,
+    rgba(10, 26, 0, 0.92) 100%
+  );
+}
+
+/* -------- Futuristic scan lines -------- */
+
+.scanlines::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 3px,
+    rgba(0, 0, 0, 0.18) 3px,
+    rgba(0, 0, 0, 0.18) 4px
+  );
+  pointer-events: none;
+  z-index: 2;
+}
+
+/* -------- Utility layer -------- */
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
+  .bg-dark { background-color: #0a1a00; }
+  .bg-card-dark { background-color: #1a2e0a; }
+  .text-lime { color: #93C63B; }
+  .text-orange-brand { color: #FE6C05; }
+  .border-dim { border-color: rgba(255,255,255,0.08); }
+  .border-dim-dark { border-color: rgba(10,26,0,0.12); }
 }

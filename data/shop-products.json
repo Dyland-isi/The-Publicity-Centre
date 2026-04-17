@@ -1,0 +1,44 @@
+[
+  {
+    "id": "shop-tote",
+    "name": "Branded Tote Bag",
+    "price": 4.5,
+    "description": "Heavy-duty cotton canvas tote, printed with your logo. Perfect for events and giveaways.",
+    "image": "https://picsum.photos/seed/tote/800/800"
+  },
+  {
+    "id": "shop-pen-set",
+    "name": "Metal Pen Set",
+    "price": 12.0,
+    "description": "Gift-boxed ballpoint and rollerball set in brushed aluminium, laser-engraved with your mark.",
+    "image": "https://picsum.photos/seed/pen-set/800/800"
+  },
+  {
+    "id": "shop-travel-mug",
+    "name": "Insulated Travel Mug",
+    "price": 8.0,
+    "description": "Double-walled stainless steel travel mug. Keeps coffee hot for hours.",
+    "image": "https://picsum.photos/seed/travel-mug/800/800"
+  },
+  {
+    "id": "shop-usb",
+    "name": "USB Stick (16GB)",
+    "price": 6.0,
+    "description": "Compact USB 3.0 flash drive — full-colour printed casing.",
+    "image": "https://picsum.photos/seed/usb-stick/800/800"
+  },
+  {
+    "id": "shop-stress-ball",
+    "name": "Stress Ball",
+    "price": 1.8,
+    "description": "Classic PU foam stress ball, available in any Pantone match.",
+    "image": "https://picsum.photos/seed/stress-ball/800/800"
+  },
+  {
+    "id": "shop-confectionery",
+    "name": "Confectionery Box",
+    "price": 3.2,
+    "description": "Branded sweet box — eight pieces, printed sleeve, ribbon tie.",
+    "image": "https://picsum.photos/seed/confectionery/800/800"
+  }
+]

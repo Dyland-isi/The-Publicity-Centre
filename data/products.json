@@ -1,0 +1,424 @@
+[
+  {
+    "id": "prod-001",
+    "name": "Classic Ballpoint Pen",
+    "slug": "classic-ballpoint-pen",
+    "category": "Pens & Writing",
+    "description": "High-quality ballpoint pen with smooth ink flow, ideal for everyday brand promotion at events and conferences.",
+    "colours": [
+      "Black",
+      "Blue",
+      "Red",
+      "White"
+    ],
+    "dimensions": "140mm x 10mm",
+    "leadTime": "5-7 working days",
+    "productCode": "PEN-001",
+    "priceOnRequest": true,
+    "image": "https://www.publicitycentre.com/froot/0/category_images/fullfeed/370.jpg"
+  },
+  {
+    "id": "prod-002",
+    "name": "Soft-Touch Stylus Pen",
+    "slug": "soft-touch-stylus-pen",
+    "category": "Pens & Writing",
+    "description": "Premium soft-touch finish pen with built-in stylus tip for touchscreen devices. A modern promotional favourite.",
+    "colours": [
+      "Black",
+      "Silver",
+      "Navy",
+      "Red",
+      "Green"
+    ],
+    "dimensions": "145mm x 11mm",
+    "leadTime": "7-10 working days",
+    "productCode": "PEN-002",
+    "priceOnRequest": true,
+    "image": "https://www.publicitycentre.com/froot/0/category_images/fullfeed/367088.jpg"
+  },
+  {
+    "id": "prod-003",
+    "name": "Recycled Cardboard Pen",
+    "slug": "recycled-cardboard-pen",
+    "category": "Pens & Writing",
+    "description": "Eco-friendly pen made from recycled cardboard with a smooth-writing refill. Great for sustainability-focused campaigns.",
+    "colours": [
+      "Natural",
+      "Green",
+      "Blue",
+      "Black"
+    ],
+    "dimensions": "138mm x 10mm",
+    "leadTime": "5-7 working days",
+    "productCode": "PEN-003",
+    "priceOnRequest": true,
+    "image": "https://www.publicitycentre.com/froot/0/category_images/fullfeed/310.jpg"
+  },
+  {
+    "id": "prod-004",
+    "name": "Ceramic Travel Mug",
+    "slug": "ceramic-travel-mug",
+    "category": "Drinkware",
+    "description": "Double-walled ceramic travel mug with silicone lid and grip band. Keeps drinks hot for up to 2 hours.",
+    "colours": [
+      "White",
+      "Black",
+      "Grey",
+      "Red",
+      "Blue"
+    ],
+    "dimensions": "150mm x 85mm (350ml)",
+    "leadTime": "10-12 working days",
+    "productCode": "DRK-001",
+    "priceOnRequest": true,
+    "image": "https://technologo.com/EODProManager?action=getProductWithRemoteLogo&accesskey=EODKSBrandsAccess&sku=MG0110&schema=https&logoURL=https%3A%2F%2Fwww.publicitycentre.com%2Flive%2F_cpcommon%2Fsrc%2Fimages%2Femptylogo.png&ver=eodpro&width=500&height=500&fixed=true&removeWhite=&removeWhiteFromEdges=1"
+  },
+  {
+    "id": "prod-005",
+    "name": "Stainless Steel Water Bottle",
+    "slug": "stainless-steel-water-bottle",
+    "category": "Drinkware",
+    "description": "Vacuum-insulated stainless steel bottle with leak-proof cap. Keeps drinks cold for 24 hours or hot for 12 hours.",
+    "colours": [
+      "Silver",
+      "Black",
+      "White",
+      "Blue",
+      "Red"
+    ],
+    "dimensions": "260mm x 70mm (500ml)",
+    "leadTime": "10-14 working days",
+    "productCode": "DRK-002",
+    "priceOnRequest": true,
+    "image": "https://technologo.com/EODProManager?action=getProductWithRemoteLogo&accesskey=EODKSBrandsAccess&sku=MG0110&schema=https&logoURL=https%3A%2F%2Fwww.publicitycentre.com%2Flive%2F_cpcommon%2Fsrc%2Fimages%2Femptylogo.png&ver=eodpro&width=500&height=500&fixed=true&removeWhite=&removeWhiteFromEdges=1"
+  },
+  {
+    "id": "prod-006",
+    "name": "Branded Sports Bottle",
+    "slug": "branded-sports-bottle",
+    "category": "Drinkware",
+    "description": "Lightweight BPA-free sports bottle with flip-top lid. Perfect for gyms, outdoor events, and active lifestyles.",
+    "colours": [
+      "Clear",
+      "Blue",
+      "Green",
+      "Orange",
+      "Pink"
+    ],
+    "dimensions": "230mm x 65mm (750ml)",
+    "leadTime": "7-10 working days",
+    "productCode": "DRK-003",
+    "priceOnRequest": true,
+    "image": "https://technologo.com/EODProManager?action=getProductWithRemoteLogo&accesskey=EODKSBrandsAccess&sku=MG0110&schema=https&logoURL=https%3A%2F%2Fwww.publicitycentre.com%2Flive%2F_cpcommon%2Fsrc%2Fimages%2Femptylogo.png&ver=eodpro&width=500&height=500&fixed=true&removeWhite=&removeWhiteFromEdges=1"
+  },
+  {
+    "id": "prod-007",
+    "name": "Cotton Canvas Tote Bag",
+    "slug": "cotton-canvas-tote-bag",
+    "category": "Bags & Totes",
+    "description": "Heavyweight 10oz cotton canvas tote with long handles. Generous print area for maximum brand visibility.",
+    "colours": [
+      "Natural",
+      "Black",
+      "Navy",
+      "White"
+    ],
+    "dimensions": "380mm x 420mm (handles: 670mm)",
+    "leadTime": "10-14 working days",
+    "productCode": "BAG-001",
+    "priceOnRequest": true,
+    "image": "https://www.publicitycentre.com/froot/0/category_images/fullfeed/2900.jpg"
+  },
+  {
+    "id": "prod-008",
+    "name": "Non-Woven Conference Bag",
+    "slug": "non-woven-conference-bag",
+    "category": "Bags & Totes",
+    "description": "Lightweight non-woven polypropylene bag ideal for conferences, exhibitions, and trade shows. Budget-friendly with vibrant print options.",
+    "colours": [
+      "White",
+      "Black",
+      "Red",
+      "Blue",
+      "Green",
+      "Yellow"
+    ],
+    "dimensions": "360mm x 400mm x 80mm",
+    "leadTime": "7-10 working days",
+    "productCode": "BAG-002",
+    "priceOnRequest": true,
+    "image": "https://www.publicitycentre.com/froot/0/category_images/fullfeed/2910.jpg"
+  },
+  {
+    "id": "prod-009",
+    "name": "Drawstring Backpack",
+    "slug": "drawstring-backpack",
+    "category": "Bags & Totes",
+    "description": "Polyester drawstring backpack with reinforced corners. Lightweight and practical for events, sports days, and giveaways.",
+    "colours": [
+      "Black",
+      "Red",
+      "Blue",
+      "Yellow",
+      "Green",
+      "Orange"
+    ],
+    "dimensions": "340mm x 420mm",
+    "leadTime": "7-10 working days",
+    "productCode": "BAG-003",
+    "priceOnRequest": true,
+    "image": "https://www.publicitycentre.com/froot/0/category_images/fullfeed/2930.jpg"
+  },
+  {
+    "id": "prod-010",
+    "name": "Branded USB Flash Drive",
+    "slug": "branded-usb-flash-drive",
+    "category": "Technology & USB",
+    "description": "Custom-printed USB flash drive available in multiple storage capacities. Swivel design protects the connector when not in use.",
+    "colours": [
+      "Black",
+      "White",
+      "Red",
+      "Blue",
+      "Silver"
+    ],
+    "dimensions": "56mm x 18mm x 10mm",
+    "leadTime": "10-14 working days",
+    "productCode": "TEC-001",
+    "priceOnRequest": true,
+    "image": "https://www.publicitycentre.com/froot/0/category_images/fullfeed/367156.jpg"
+  },
+  {
+    "id": "prod-011",
+    "name": "Wireless Charging Pad",
+    "slug": "wireless-charging-pad",
+    "category": "Technology & USB",
+    "description": "Qi-compatible wireless charging pad with full-colour print area. Compatible with all major smartphone brands.",
+    "colours": [
+      "Black",
+      "White"
+    ],
+    "dimensions": "100mm diameter x 8mm",
+    "leadTime": "12-15 working days",
+    "productCode": "TEC-002",
+    "priceOnRequest": true,
+    "image": "https://www.publicitycentre.com/froot/0/category_images/fullfeed/367209.jpg"
+  },
+  {
+    "id": "prod-012",
+    "name": "Portable Power Bank",
+    "slug": "portable-power-bank",
+    "category": "Technology & USB",
+    "description": "Compact 5000mAh power bank with dual USB output. Full-surface branding available for maximum impact.",
+    "colours": [
+      "Black",
+      "White",
+      "Silver",
+      "Blue"
+    ],
+    "dimensions": "110mm x 62mm x 12mm",
+    "leadTime": "12-15 working days",
+    "productCode": "TEC-003",
+    "priceOnRequest": true,
+    "image": "https://www.publicitycentre.com/froot/0/category_images/fullfeed/1650.jpg"
+  },
+  {
+    "id": "prod-013",
+    "name": "Unisex Polo Shirt",
+    "slug": "unisex-polo-shirt",
+    "category": "Clothing & Workwear",
+    "description": "Premium 220gsm pique polo shirt with ribbed collar and cuffs. Available in a wide range of sizes from XS to 5XL.",
+    "colours": [
+      "White",
+      "Black",
+      "Navy",
+      "Red",
+      "Royal Blue",
+      "Bottle Green"
+    ],
+    "dimensions": "Sizes: XS - 5XL",
+    "leadTime": "10-15 working days",
+    "productCode": "CLO-001",
+    "priceOnRequest": true,
+    "image": "https://www.publicitycentre.com/froot/0/category_images/fullfeed/790.jpg"
+  },
+  {
+    "id": "prod-014",
+    "name": "Hi-Vis Safety Vest",
+    "slug": "hi-vis-safety-vest",
+    "category": "Clothing & Workwear",
+    "description": "EN ISO 20471 certified high-visibility vest with reflective strips. Ideal for construction, events, and warehouse teams.",
+    "colours": [
+      "Yellow",
+      "Orange"
+    ],
+    "dimensions": "Sizes: S/M - XXL/3XL",
+    "leadTime": "7-10 working days",
+    "productCode": "CLO-002",
+    "priceOnRequest": true,
+    "image": "https://www.publicitycentre.com/froot/0/category_images/fullfeed/800.jpg"
+  },
+  {
+    "id": "prod-015",
+    "name": "Embroidered Baseball Cap",
+    "slug": "embroidered-baseball-cap",
+    "category": "Clothing & Workwear",
+    "description": "Structured six-panel baseball cap with pre-curved peak. Embroidered branding for a premium, durable finish.",
+    "colours": [
+      "Black",
+      "Navy",
+      "White",
+      "Red",
+      "Grey"
+    ],
+    "dimensions": "One size (adjustable strap)",
+    "leadTime": "10-14 working days",
+    "productCode": "CLO-003",
+    "priceOnRequest": true,
+    "image": "https://www.publicitycentre.com/froot/0/category_images/fullfeed/790.jpg"
+  },
+  {
+    "id": "prod-016",
+    "name": "Bamboo Fibre Notebook",
+    "slug": "bamboo-fibre-notebook",
+    "category": "Eco & Sustainable",
+    "description": "A5 notebook with bamboo fibre cover and 80 sheets of recycled lined paper. Elastic closure and ribbon bookmark included.",
+    "colours": [
+      "Natural",
+      "Green",
+      "Blue",
+      "Black"
+    ],
+    "dimensions": "210mm x 148mm (A5)",
+    "leadTime": "10-14 working days",
+    "productCode": "ECO-001",
+    "priceOnRequest": true,
+    "image": "https://technologo.com/EODProManager?action=getProductWithRemoteLogo&accesskey=EODGlevumAccess&sku=tbc-15&schema=https&logoURL=https%3A%2F%2Fwww.publicitycentre.com%2Flive%2F_cpcommon%2Fsrc%2Fimages%2Femptylogo.png&ver=eodpro&width=500&height=500&fixed=true&removeWhite=&removeWhiteFromEdges=1"
+  },
+  {
+    "id": "prod-017",
+    "name": "Organic Cotton Shopper",
+    "slug": "organic-cotton-shopper",
+    "category": "Eco & Sustainable",
+    "description": "GOTS-certified organic cotton shopping bag with long handles. Naturally unbleached with large print area for branding.",
+    "colours": [
+      "Natural"
+    ],
+    "dimensions": "380mm x 420mm (handles: 670mm)",
+    "leadTime": "10-14 working days",
+    "productCode": "ECO-002",
+    "priceOnRequest": true,
+    "image": "https://technologo.com/EODProManager?action=getProductWithRemoteLogo&accesskey=EODGlevumAccess&sku=tbc-15&schema=https&logoURL=https%3A%2F%2Fwww.publicitycentre.com%2Flive%2F_cpcommon%2Fsrc%2Fimages%2Femptylogo.png&ver=eodpro&width=500&height=500&fixed=true&removeWhite=&removeWhiteFromEdges=1"
+  },
+  {
+    "id": "prod-018",
+    "name": "Wheat Straw Coffee Cup",
+    "slug": "wheat-straw-coffee-cup",
+    "category": "Eco & Sustainable",
+    "description": "Reusable coffee cup made from wheat straw fibre with silicone lid. Dishwasher safe and fully biodegradable.",
+    "colours": [
+      "Natural",
+      "Green",
+      "Blue",
+      "Pink"
+    ],
+    "dimensions": "130mm x 90mm (350ml)",
+    "leadTime": "10-14 working days",
+    "productCode": "ECO-003",
+    "priceOnRequest": true,
+    "image": "https://technologo.com/EODProManager?action=getProductWithRemoteLogo&accesskey=EODGlevumAccess&sku=tbc-15&schema=https&logoURL=https%3A%2F%2Fwww.publicitycentre.com%2Flive%2F_cpcommon%2Fsrc%2Fimages%2Femptylogo.png&ver=eodpro&width=500&height=500&fixed=true&removeWhite=&removeWhiteFromEdges=1"
+  },
+  {
+    "id": "prod-019",
+    "name": "Branded Chocolate Bar",
+    "slug": "branded-chocolate-bar",
+    "category": "Confectionery & Food",
+    "description": "Individually wrapped milk chocolate bar with full-colour branded wrapper. Made with Fairtrade cocoa.",
+    "colours": [
+      "Full colour wrapper"
+    ],
+    "dimensions": "130mm x 60mm x 8mm (50g)",
+    "leadTime": "10-14 working days",
+    "productCode": "CON-001",
+    "priceOnRequest": true,
+    "image": "https://www.publicitycentre.com/froot/0/category_images/fullfeed/2180.jpg"
+  },
+  {
+    "id": "prod-020",
+    "name": "Custom Printed Mints Tin",
+    "slug": "custom-printed-mints-tin",
+    "category": "Confectionery & Food",
+    "description": "Pocket-sized tin filled with sugar-free mints. Full-colour domed label on lid for eye-catching branding.",
+    "colours": [
+      "Silver tin (full colour label)"
+    ],
+    "dimensions": "56mm diameter x 15mm",
+    "leadTime": "7-10 working days",
+    "productCode": "CON-002",
+    "priceOnRequest": true,
+    "image": "https://www.publicitycentre.com/froot/0/category_images/fullfeed/2190.jpg"
+  },
+  {
+    "id": "prod-021",
+    "name": "Jelly Beans Pouch",
+    "slug": "jelly-beans-pouch",
+    "category": "Confectionery & Food",
+    "description": "Pillow pack of assorted fruit-flavoured jelly beans with full-colour printed header card. Great for exhibitions and mailings.",
+    "colours": [
+      "Full colour header card"
+    ],
+    "dimensions": "100mm x 70mm (50g)",
+    "leadTime": "7-10 working days",
+    "productCode": "CON-003",
+    "priceOnRequest": true,
+    "image": "https://www.publicitycentre.com/froot/0/category_images/fullfeed/2200.jpg"
+  },
+  {
+    "id": "prod-022",
+    "name": "Full Colour Printed Lanyard",
+    "slug": "full-colour-printed-lanyard",
+    "category": "Lanyards & Badges",
+    "description": "20mm polyester lanyard with full-colour dye-sublimation printing. Includes safety breakaway and choice of attachment.",
+    "colours": [
+      "Custom full colour"
+    ],
+    "dimensions": "900mm x 20mm",
+    "leadTime": "7-10 working days",
+    "productCode": "LAN-001",
+    "priceOnRequest": true,
+    "image": "https://www.publicitycentre.com/froot/0/category_images/fullfeed/870.jpg"
+  },
+  {
+    "id": "prod-023",
+    "name": "Retractable ID Badge Holder",
+    "slug": "retractable-id-badge-holder",
+    "category": "Lanyards & Badges",
+    "description": "Retractable badge reel with belt clip and full-colour domed branding. Extends up to 600mm with smooth retraction.",
+    "colours": [
+      "White",
+      "Black",
+      "Blue",
+      "Red"
+    ],
+    "dimensions": "32mm diameter (reel)",
+    "leadTime": "7-10 working days",
+    "productCode": "LAN-002",
+    "priceOnRequest": true,
+    "image": "https://www.publicitycentre.com/froot/0/category_images/fullfeed/870.jpg"
+  },
+  {
+    "id": "prod-024",
+    "name": "PVC Name Badge with Lanyard",
+    "slug": "pvc-name-badge-with-lanyard",
+    "category": "Lanyards & Badges",
+    "description": "Clear PVC badge holder supplied with a plain or printed lanyard. Fits standard credit card sized inserts.",
+    "colours": [
+      "Clear holder (lanyard colours vary)"
+    ],
+    "dimensions": "95mm x 65mm (holder)",
+    "leadTime": "5-7 working days",
+    "productCode": "LAN-003",
+    "priceOnRequest": true,
+    "image": "https://www.publicitycentre.com/froot/0/category_images/fullfeed/870.jpg"
+  }
+]
